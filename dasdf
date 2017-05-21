@@ -1,0 +1,53 @@
+[33mcommit 98449c4e5f49dcee7643d01737caee2712cae91f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: zk <1198219721@qq.com>
+Date:   Sun May 21 15:31:51 2017 +0800
+
+    add test.txt
+
+[33mcommit b59881b3c4468084ec272c1fd55c1d9392997c1c[m
+Author: zk <1198219721@qq.com>
+Date:   Sun May 21 15:29:49 2017 +0800
+
+    remove test.txt
+
+[33mcommit b1a5f6eefa38af006abb36c3d7ff68fea6b2c3d1[m
+Author: zk <1198219721@qq.com>
+Date:   Sun May 21 15:27:55 2017 +0800
+
+    add test.txt
+
+[33mcommit 59c8f00c499e7aebdcd7a91b2a54589952bc4981[m
+Author: zk <1198219721@qq.com>
+Date:   Sat May 20 17:14:38 2017 +0800
+
+    git tracks changes
+
+[33mcommit 378edeef03ad58b6244b00ac81bde3015ee2e432[m
+Author: zk <1198219721@qq.com>
+Date:   Sat May 20 17:09:08 2017 +0800
+
+    git tracks changes
+
+[33mcommit 82679e4c4c248c15d23ed69fa10ca9099101c632[m
+Author: zk <1198219721@qq.com>
+Date:   Sat May 20 17:05:41 2017 +0800
+
+    understand how stage works
+
+[33mcommit 9e1d8edd910885389dfb4f62e9751618e8e6d653[m
+Author: zk <1198219721@qq.com>
+Date:   Sat May 20 16:39:40 2017 +0800
+
+    append GPL
+
+[33mcommit f40b7d7891a604c0eafa6f753c8d87de450e0db4[m
+Author: zk <1198219721@qq.com>
+Date:   Sat May 20 16:32:27 2017 +0800
+
+    add distributed
+
+[33mcommit 97c795967a48c906d3457f49654285910be7800e[m
+Author: zk <1198219721@qq.com>
+Date:   Sat May 20 16:12:32 2017 +0800
+
+    wrote a readme file
